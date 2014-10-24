@@ -1,5 +1,5 @@
 //
-//  UBASecondViewController.h
+//  UBALoginViewController.h
 //  MatchedUp
 //
 //  Created by UBA Tech on 10/8/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface UBASecondViewController : UIViewController
+@interface UBALoginViewController : UIViewController
 
 @end
